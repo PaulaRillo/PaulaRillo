@@ -3,7 +3,7 @@ I've been a Web Developer for 12 years, created, led and managed web based produ
 
 - 👀 I don’t care about titles, I love technology and creating new tech products. For me what matters is achieving great results for the company and having a team that is proud and happy with their work. 
 
-- 🌱 Worked on a variety of projects In my career, creating products, Websites, Ecommerces, Web Apps, Web Based Systems. I’ve always looked for to improve myself for each different challenge and innovate. That’s why today I have a diverse range of skills and experiences with Usability and Interface Design, Front End Development, Digital Marketing, Project Management, User Research.
+- 🌱 Worked on a variety of projects In my career, creating products, Websites, Ecommerces, Web Apps, Web Based Systems. I’ve always looked to improve myself for each different challenge and innovate. That’s why today I have a diverse range of skills and experiences with Usability and Interface Design, Front End Development, Digital Marketing, Project Management, User Research.
 
 - ✨ I’ve managed projects and products, trained teams, developed workflows and conducted user and market researchers.
 Developed Web Based Systems to improve productivity and sales, optimized websites and ecommerces increasing organic traffic by 60% and improved the company’s Bid Quality Score grade from 3 to 9, Cost per click from R$7 to R$1,40.

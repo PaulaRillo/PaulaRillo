@@ -1,5 +1,5 @@
 - 👋  Hello, I'm Paula! I create and develop Web Products. Innovation is my passion.
-I've been a Web Developer for 12 years, created, led and managed web based products from scratch, including research, market and product analyses, planning, design, development and launch.
+I've been a Web Developer for 13 years, created, led and managed web based products from scratch, including research, market and product analyses, planning, design, development and launch.
 
 - 👀 I don’t care about titles, I love technology and creating new tech products. For me what matters is achieving great results for the company and having a team that is proud and happy with their work. 
 
